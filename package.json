@@ -1,0 +1,14 @@
+{
+  "name": "atblog",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "pull": "atdown pull",
+    "push": "atdown push"
+  },
+  "dependencies": {
+    "@mkizka/atdown": "latest",
+    "@mkizka/atdown-whtwnd": "latest"
+  }
+}

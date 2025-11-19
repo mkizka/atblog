@@ -1,0 +1,5 @@
+{
+  "handle": "mkizka.dev",
+  "entriesDir": "./entries",
+  "converters": ["@mkizka/atdown-whtwnd"]
+}
